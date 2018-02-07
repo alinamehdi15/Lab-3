@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="SeeMoreCommand">Check it out! </string>
+    <string name="Command">Check It Out!</string>
 </resources>
